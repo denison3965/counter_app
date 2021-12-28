@@ -1,6 +1,6 @@
 # counter_app
 
-A new Flutter project.
+![Preview-Screens](https://github.com/denison3965/counter_app/blob/master/Captura%20de%20tela%20de%202021-12-28%2012-21-21.png)
 
 ## Getting Started
 
